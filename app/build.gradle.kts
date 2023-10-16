@@ -5,7 +5,7 @@ plugins {
 
 android {
     namespace = "com.who.doit"
-    compileSdk = 33
+    compileSdk = 34
 
     defaultConfig {
         applicationId = "com.who.doit"
